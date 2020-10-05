@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xci/YRHM0So1WplKMT6FNjZUPAxlpxNemxhjDLOyBcWEVtVQBLKyKOp/4quqti7kBnczH1w1N9nMvWVsO1r+xA==",
+  "dgSpecHash": "EVs4VqzgHCfNkF+DdzAx3qKa4EjDlWVWk/9iUOCtwZ7StOAL4o8tFVOG6XCJYREV1ZJ7cD1N0FxL0tZZBOk3gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SIO2\\Desktop\\SLAM5\\DEB\\DEB\\DEB.csproj",
+  "projectFilePath": "C:\\Users\\SIO2\\Source\\Repos\\ClubFromageCS\\DEB\\DEB\\DEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SIO2\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\SIO2\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

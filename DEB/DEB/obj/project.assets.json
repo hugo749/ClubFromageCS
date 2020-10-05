@@ -5904,11 +5904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SIO2\\Desktop\\SLAM5\\DEB\\DEB\\DEB.csproj",
+      "projectUniqueName": "C:\\Users\\SIO2\\Source\\Repos\\ClubFromageCS\\DEB\\DEB\\DEB.csproj",
       "projectName": "DEB",
-      "projectPath": "C:\\Users\\SIO2\\Desktop\\SLAM5\\DEB\\DEB\\DEB.csproj",
+      "projectPath": "C:\\Users\\SIO2\\Source\\Repos\\ClubFromageCS\\DEB\\DEB\\DEB.csproj",
       "packagesPath": "C:\\Users\\SIO2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SIO2\\Desktop\\SLAM5\\DEB\\DEB\\obj\\",
+      "outputPath": "C:\\Users\\SIO2\\Source\\Repos\\ClubFromageCS\\DEB\\DEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

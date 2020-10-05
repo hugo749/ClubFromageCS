@@ -4,9 +4,9 @@ using MySql.Data.MySqlClient;
 using System.Linq;
 using System.Collections;
 
-namespace DEB
+namespace model
 {
-    class DBConnect
+    class dbal
     {
         private MySqlConnection connection;
         private string server;
@@ -15,7 +15,7 @@ namespace DEB
         private string password;
 
         //Constructor
-        public DBConnect()
+        public dbal()
         {
             Initialize();
         }
@@ -83,7 +83,7 @@ namespace DEB
         public void Insert(string query)
         {
             query = "INSERT INTO " + query;
-
+            
             //open connection
             if (this.OpenConnection() == true)
             {
@@ -138,7 +138,7 @@ namespace DEB
         //Delete statement
         public void Delete(string query)
         {
-            string query = "DELETE " + query;
+            query = "DELETE " + query;
 
             if (this.OpenConnection() == true)
             {

@@ -16,6 +16,6 @@ namespace metier
         }
 
         public int Id { get => _id; set => _id = value; }
-        public int Nom { get => _nom; set => _nom = value; }
+        public string Nom { get => _nom; set => _nom = value; }
     }
 }
