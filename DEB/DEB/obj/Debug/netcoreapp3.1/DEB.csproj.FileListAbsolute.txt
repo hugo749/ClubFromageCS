@@ -1,0 +1,4 @@
+C:\Users\SIO2\Desktop\SLAM5\DEB\DEB\obj\Debug\netcoreapp3.1\DEB.csprojAssemblyReference.cache
+C:\Users\SIO2\Desktop\SLAM5\DEB\DEB\obj\Debug\netcoreapp3.1\DEB.AssemblyInfoInputs.cache
+C:\Users\SIO2\Desktop\SLAM5\DEB\DEB\obj\Debug\netcoreapp3.1\DEB.AssemblyInfo.cs
+C:\Users\SIO2\Desktop\SLAM5\DEB\DEB\obj\Debug\netcoreapp3.1\DEB.csproj.CoreCompileInputs.cache
